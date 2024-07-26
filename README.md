@@ -11,4 +11,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p></br>
+<div display="flex" flex-direction="row">
+<img src="https://github.com/DorotheeLagetChappert/devandinfoProject/blob/main/Home.png" width="50%"></img>
+<img src="https://github.com/DorotheeLagetChappert/devandinfoProject/blob/main/HomeMobile.png" width="26.15%"></img>
+</div>
